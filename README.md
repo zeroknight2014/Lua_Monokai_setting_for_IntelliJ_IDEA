@@ -1,0 +1,1 @@
+This is a Monokai theme for IntelliJ IDEA ,  supported Lua.
